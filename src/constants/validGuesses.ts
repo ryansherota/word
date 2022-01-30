@@ -1,5 +1,6 @@
 export const VALIDGUESSES = [
 'cigar',
+'busse',
 'rebut',
 'sissy',
 'humph',
