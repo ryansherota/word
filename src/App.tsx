@@ -63,7 +63,9 @@ function App() {
   useEffect(() => {
     if (isDarkMode) {
       document.documentElement.classList.add('dark')
+      document.documentElement.classList.remove('light')
     } else {
+      document.documentElement.classList.add('light')
       document.documentElement.classList.remove('dark')
     }
   }, [isDarkMode])
@@ -143,7 +145,7 @@ function App() {
   return (
     <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
       <div className="flex w-80 mx-auto items-center mb-8">
-        <h1 className="text-xl grow font-bold dark:text-white">Ryandle</h1>
+        <h1 className="text-xl grow font-bold dark:text-white">RYANDLE</h1>
         <SunIcon
           className="h-6 w-6 cursor-pointer dark:stroke-white"
           onClick={() => handleDarkMode(!isDarkMode)}

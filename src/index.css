@@ -20,3 +20,11 @@
     transform: scale(1);
   }
 }
+
+@font-face {
+  font-family: 'MonumentExtended';
+  src: local('MonumentExtended'), url(./fonts/MonumentExtended-Regular.ttf) format('truetype');
+}
+
+h1 { color: #272727; font: 20px MonumentExtended; margin: 5px 5px 1px 0px; } 
+
