@@ -10,6 +10,7 @@ export const WORDS = [
   'kitty',
   'julia',
   'colin',
+  'seven',
   'kylie',
   'baefy',
   'meoww',
@@ -21,4 +22,5 @@ export const WORDS = [
   'mamis',
   'omggg',
   'slays',
+  'loveu',
 ]
