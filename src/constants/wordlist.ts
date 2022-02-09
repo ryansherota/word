@@ -18,6 +18,7 @@ export const WORDS = [
   'baefy',
   'capet',
   'meoww',
+  'seven',
   'piano',
   'dania',
   'point',
@@ -25,7 +26,6 @@ export const WORDS = [
   'omggg',
   'handm',
   'mamis',
-  'seven',
   'slays',
   'loveu',
 ]
