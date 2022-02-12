@@ -13,14 +13,15 @@ export const WORDS = [
   'colin', // feb 9
   'julia', // feb 10
   'kitty', // feb 11
-  'perry',
-  'kylie',
-  'baefy',
-  'capet',
-  'meoww',
-  'seven',
-  'piano',
-  'dania',
+  'perry', // feb 12
+  'abbaw', // feb 13
+  'capet', // feb 14
+  'meoww', // feb 15
+  'seven', // feb 16
+  'kylie', // feb 17
+  'baefy', // feb 18
+  'piano', // feb 19
+  'dania', // feb 20
   'point',
   'brade',
   'omggg',
