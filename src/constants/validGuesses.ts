@@ -4,6 +4,7 @@ export const VALIDGUESSES = [
 'slayy',
 'purrr',
 'yasss',
+'darty',
 'rebut',
 'sissy',
 'humph',
