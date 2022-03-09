@@ -38,5 +38,16 @@ export const WORDS = [
   'dbuss',
   'disco',
   'beads',
-  'socks', // march 8
+  'socks', // march 9
+  'coder',
+  'coach',
+  'sheet',
+  'erode',
+  'armor',
+  'peach',
+  'found',
+  'worth',
+  'crane',
+  'spike',
+  'digit',
 ]
