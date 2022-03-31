@@ -1,47 +1,15 @@
 export const WORDS = [
   'ryans',
-  'bussy', 
   'swift',
-  'vibes', // feb 1
-  'pinky', // feb 2
-  'elonu', // feb 3
-  'sarah', // feb 4
-  'boufy', // feb 5 ? day 7
-  'ditzy', // feb 6
-  'betta', // feb 7
-  'katey', // feb 8
-  'colin', // feb 9
-  'julia', // feb 10
-  'kitty', // feb 11
-  'perry', // feb 12
-  'abbaw', // feb 13
-  'capet', // feb 14
-  'meoww', // feb 15
-  'seven', // feb 16
-  'kylie', // feb 17
-  'baefy', // feb 18
-  'piano', // feb 19
-  'dania', // feb 20
-  'point',
-  'brade',
-  'omggg',
-  'handm',
-  'mamis',
-  'slays',
-  'loveu',
-  'error',
-  'chutt',
-  'boner',
-  'bitch',
-  'beefy',
-  'milly',
-  'dbuss',
-  'disco',
-  'beads',
-  'socks', // march 9
-  'coder',
+  'vibes',
+  'pinky', 
+  'elonu', 
+  'sarah', 
+  'boufy', 
+  'ditzy', 
+  'betta', 
+  'katey', 
   'coach',
-  'sheet',
   'erode',
   'armor',
   'peach',
@@ -50,4 +18,67 @@ export const WORDS = [
   'crane',
   'spike',
   'digit',
-]
+  'colin', 
+  'julia', 
+  'kitty', 
+  'perry', 
+  'abbaw', 
+  'capet', 
+  'meoww', 
+  'seven', 
+  'kylie', 
+  'baefy', 
+  'piano', 
+  'dania', 
+  'point',
+  'brade',
+  'omggg',
+  'handm',
+  'slays',
+  'loveu',
+  'milly',
+  'disco',
+  'beads',
+  'socks', // march 9
+  'coder',
+  'coach',
+  'erode',
+  'armor',
+  'peach',
+  'found',
+  'worth',
+  'crane',
+  'spike',
+  'digit',
+  'khaki',
+  'poker',
+  'gruel',
+  'twice',
+  'twang',
+  'shrug',
+  'treat',
+  'unlit',
+  'waste',
+  'merit',
+  'woven',
+  'octal',
+  'needy',
+  'clown',
+  'widow',
+  'irony',
+  'ruder',
+  'gauze',
+  'chief',
+  'onset',
+  'prize',
+  'fungi',
+  'charm',
+  'gully',
+  'inter',
+  'whoop',
+  'taunt',
+  'leary',
+  'class',
+  'theme',
+  'lofty',
+  ]

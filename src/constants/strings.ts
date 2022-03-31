@@ -1,1 +1,1 @@
-export const WIN_MESSAGES = ['Yas Queen!', 'Period!', 'Slayed!']
+export const WIN_MESSAGES = ['Nice!', 'Perfect!', 'Amazing!']
